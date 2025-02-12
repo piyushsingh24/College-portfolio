@@ -1,0 +1,15 @@
+.videotitle{
+  color: #000f38;
+  background-color: white;
+}
+
+.student{
+  background-color: rgb(243, 237, 237);
+  margin-top: 5px;
+  min-width: 50%;
+  max-width: 50%;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0000000d;  
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+  background: linear-gradient(rgba(8,0,59,0.7),rgba(8,0,59,0.7)) , url("./assets/hero.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  color:  white;
+
+}
+
+.imagecontainer{
+  background: rgba(0,15,152,0.3);
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.videotitle{
+  color: #000f38;
+  background-color: white;
+}
+
